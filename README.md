@@ -4,7 +4,6 @@
 - 👨‍🏭 Experiência de 10 anos com Redes, Internet, 
 - 🌱 Hoje estudo DevOps. 
 - 👯 Procuro vagas para Devops.
-- 💬 Ask me about ...
 - 📫 Meu email é edgomendes@gmail.com
 - 📞(32)988205445 📳
 
